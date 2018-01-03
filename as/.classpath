@@ -6,7 +6,6 @@
 	<classpathentry excluding="**/*.java" kind="src" output="eclipse-target/tests-classes" path="src/test/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ironjacamar-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/ironjacamar-common"/>
 	<classpathentry kind="lib" path="../lib/common/jboss-logging.jar"/>
 	<classpathentry kind="lib" path="../lib/test/h2.jar"/>
 	<classpathentry kind="lib" path="../lib/test/junit.jar"/>
@@ -14,5 +13,6 @@
 	<classpathentry kind="lib" path="../lib/tools/ant.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ironjacamar-validator"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ironjacamar-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ironjacamar-common"/>
 	<classpathentry kind="output" path="eclipse-target/classes"/>
 </classpath>

@@ -17,5 +17,6 @@
 	<classpathentry kind="lib" path="../lib/embedded/shrinkwrap-spi.jar"/>
 	<classpathentry kind="lib" path="../lib/embedded/shrinkwrap-api.jar"/>
 	<classpathentry kind="lib" path="../target/ironjacamar-embedded.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ironjacamar-arquillian"/>
 	<classpathentry kind="output" path="eclipse-target/classes"/>
 </classpath>

@@ -28,5 +28,7 @@
 	<classpathentry kind="lib" path="../lib/embedded/shrinkwrap-impl-base.jar"/>
 	<classpathentry kind="lib" path="../lib/embedded/shrinkwrap-spi.jar"/>
 	<classpathentry kind="lib" path="../target/ironjacamar-embedded.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ironjacamar-arquillian"/>
+	<classpathentry kind="lib" path="../lib/byteman/arquillian-extension-byteman.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

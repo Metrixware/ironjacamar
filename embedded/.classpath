@@ -24,8 +24,11 @@
 	<classpathentry kind="lib" path="../lib/common/validation-api.jar"/>
 	<classpathentry kind="lib" path="../lib/embedded/shrinkwrap-api.jar"/>
 	<classpathentry kind="lib" path="../lib/embedded/shrinkwrap-descriptors-api-base.jar"/>
+	<classpathentry kind="lib" path="../lib/embedded/shrinkwrap-descriptors-api-javaee.jar"/>
 	<classpathentry kind="lib" path="../lib/embedded/shrinkwrap-impl-base.jar"/>
 	<classpathentry kind="lib" path="../lib/sjc/fungal.jar"/>
 	<classpathentry kind="lib" path="../lib/sjc/fungal-cli.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ironjacamar-arquillian"/>
+	<classpathentry kind="lib" path="/ironjacamar-parent/lib/embedded/shrinkwrap-descriptors-api-base.jar"/>
 	<classpathentry kind="output" path="eclipse-target/classes"/>
 </classpath>
