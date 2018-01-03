@@ -180,6 +180,7 @@
     <dependency org="org.jboss.netty" name="netty" rev="${version.jboss.netty}" conf="hornetq"/>
     <dependency org="org.jboss.shrinkwrap" name="shrinkwrap-api" rev="${version.jboss.shrinkwrap}" conf="embedded,ironjacamar-depchain,ironjacamar-embedded,ironjacamar-arquillian-embedded"/>
     <dependency org="org.jboss.shrinkwrap.descriptors" name="shrinkwrap-descriptors-api-base" rev="${version.jboss.shrinkwrap.descriptors}" conf="embedded,ironjacamar-depchain"/>
+    <dependency org="org.jboss.shrinkwrap.descriptors" name="shrinkwrap-descriptors-api-javaee" rev="${version.jboss.shrinkwrap.descriptors}" conf="embedded,ironjacamar-depchain"/>
     <dependency org="org.jboss.shrinkwrap.descriptors" name="shrinkwrap-descriptors-ant" rev="${version.jboss.shrinkwrap.descriptors}" conf="tools"/>
     <dependency org="org.jboss.shrinkwrap.descriptors" name="shrinkwrap-descriptors-impl-base" rev="${version.jboss.shrinkwrap.descriptors}" conf="embedded,ironjacamar-depchain"/>
     <dependency org="org.jboss.shrinkwrap.descriptors" name="shrinkwrap-descriptors-metadata-parser" rev="${version.jboss.shrinkwrap.descriptors}" conf="tools"/>
