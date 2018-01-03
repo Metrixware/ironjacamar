@@ -6,18 +6,18 @@
 	<classpathentry kind="src" path="src/test/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ironjacamar-api"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/common/jboss-common-core.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/common/jboss-logging.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/common/jboss-logging-processor.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/common/jandex.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/common/validation-api.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/sjc/fungal.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/arquillian/arquillian-container-test-api.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/arquillian/arquillian-junit-core.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/embedded/shrinkwrap-api.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/embedded/shrinkwrap-impl-base.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/test/h2.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/test/junit.jar"/>
-	<classpathentry kind="lib" path="/ironjacamar-parent/lib/test/mockito-all.jar"/>
+	<classpathentry kind="lib" path="../lib/common/jboss-common-core.jar"/>
+	<classpathentry kind="lib" path="../lib/common/jboss-logging.jar"/>
+	<classpathentry kind="lib" path="../lib/common/jboss-logging-processor.jar"/>
+	<classpathentry kind="lib" path="../lib/common/jandex.jar"/>
+	<classpathentry kind="lib" path="../lib/common/validation-api.jar"/>
+	<classpathentry kind="lib" path="../lib/sjc/fungal.jar"/>
+	<classpathentry kind="lib" path="../lib/arquillian/arquillian-container-test-api.jar"/>
+	<classpathentry kind="lib" path="../lib/arquillian/arquillian-junit-core.jar"/>
+	<classpathentry kind="lib" path="../lib/embedded/shrinkwrap-api.jar"/>
+	<classpathentry kind="lib" path="../lib/embedded/shrinkwrap-impl-base.jar"/>
+	<classpathentry kind="lib" path="../lib/test/h2.jar"/>
+	<classpathentry kind="lib" path="../lib/test/junit.jar"/>
+	<classpathentry kind="lib" path="../lib/test/mockito-all.jar"/>
 	<classpathentry kind="output" path="eclipse-target/classes"/>
 </classpath>
